@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/tokopedia/galadriel/src/common"
+	"github.com/projectkita/project-harapan-backend-golang/src/common"
 )
 
 type AppError struct {
